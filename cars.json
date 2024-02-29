@@ -1,0 +1,210 @@
+[
+    {
+        "brand": "Toyota",
+        "model": "COROLLA",
+        "year": "1989",
+        "passangers": "5",
+        "price": 450000,
+        "details": [
+            "1600cc",
+            "Manual",
+            "Gasolina",
+            "San José",
+            "clutch frenos llantas motor nuevo todos los vidrios quebrados sin batería sin tracción pero arranca"
+        ]
+    },
+    {
+        "brand": "Volkswagen",
+        "model": "VARIANT 412 L",
+        "year": "1973",
+        "passangers": "5",
+        "price": 500000,
+        "details": [
+            "1800cc",
+            "Manual",
+            "Gasolina",
+            "San José",
+            "Completa y original es para restaurar."
+        ]
+    },
+    {
+        "brand": "Volkswagen",
+        "model": "GOL",
+        "year": "2001",
+        "passangers": "5",
+        "price": 600000,
+        "details": [
+            "1800cc",
+            "Manual",
+            "Gasolina",
+            "Guanacaste"
+        ]
+    },
+    {
+        "brand": "Nissan",
+        "model": "SENTRA B13",
+        "year": "1997",
+        "passangers": "5",
+        "price": 600000,
+        "details": [
+            "1600cc",
+            "Manual",
+            "Gasolina",
+            "San José",
+            "Para repuestos o poner al día version mexicana venga y negociemos!"
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model": "ELANTRA",
+        "year": "1993",
+        "passangers": "5",
+        "price": 650000,
+        "details": [
+            "1500cc",
+            "Manual",
+            "Gasolina",
+            "Alajuela"
+        ]
+    },
+    {
+        "brand": "Chevrolet",
+        "model": "ASTRO",
+        "year": "1986",
+        "passangers": "8",
+        "price": 700000,
+        "details": [
+            "4300cc",
+            "Automático",
+            "Gasolina",
+            "Alajuela",
+            "El carro mecánicamente está en muy buen estado, motor y caja en buenas condiciones. Lo único que le"
+        ]
+    },
+    {
+        "brand": "Chevrolet",
+        "model": "CELTA",
+        "year": "2003",
+        "passangers": "5",
+        "price": 700000,
+        "details": [
+            "1000cc",
+            "Manual",
+            "Gasolina",
+            "San José",
+            "Con marchamo sin dekra"
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model": "SIDEKICK",
+        "year": "1998",
+        "passangers": "5",
+        "price": 700000,
+        "details": [
+            "1600cc",
+            "Manual",
+            "Gasolina",
+            "San José",
+            "El carro no tiene marchamo del año pasado y no tiene dekra esta en buen estado."
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model": "SONATA GLS",
+        "year": "1995",
+        "passangers": "5",
+        "price": 750000,
+        "details": [
+            "3000cc",
+            "Automático",
+            "Gasolina",
+            "San José",
+            "Reparar caja cambios Al día"
+        ]
+    },
+    {
+        "brand": "Nissan",
+        "model": "SENTRA",
+        "year": "1994",
+        "passangers": "5",
+        "price": 750000,
+        "details": [
+            "1600cc",
+            "Automático",
+            "Gasolina",
+            "San José",
+            "Hay que reparar el cabezote  se oyen ofertas"
+        ]
+    },
+    {
+        "brand": "Toyota",
+        "model": "CROWN ROYAL SALOON",
+        "year": "1992",
+        "passangers": "5",
+        "price": 800000,
+        "details": [
+            "3000cc",
+            "Automático",
+            "Gasolina",
+            "San José",
+            "El carro no está al día debe revisión y marchamo no tengo la firma. El carro se encuentra sin motor"
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model": "ELANTRA",
+        "year": "1998",
+        "passangers": "5",
+        "price": 800000,
+        "details": [
+            "1800cc",
+            "Automático",
+            "Híbrido",
+            "San José",
+            "FUNCIONA SOLO CON GAS LP SISTEMA NUEVO"
+        ]
+    },
+    {
+        "brand": "Toyota",
+        "model": "TERCEL",
+        "year": "1988",
+        "passangers": "4",
+        "price": 830000,
+        "details": [
+            "1500cc",
+            "Manual",
+            "Gasolina",
+            "San José",
+            "listo para firmar ubicado en san rafel escazu"
+        ]
+    },
+    {
+        "brand": "Toyota",
+        "model": "COROLLA",
+        "year": "1984",
+        "passangers": "5",
+        "price": 900000,
+        "details": [
+            "1300cc",
+            "Manual",
+            "Gasolina",
+            "Heredia",
+            "Toyota Corolla Versión Japonesa totalmente libre y al día en todo"
+        ]
+    },
+    {
+        "brand": "Toyota",
+        "model": "CORONA",
+        "year": "1987",
+        "passangers": "5",
+        "price": 920000,
+        "details": [
+            "1600cc",
+            "Manual",
+            "Gasolina",
+            "Alajuela",
+            "EL CARRITO SE LE PUSO AIRE VIDRIOS ESLECTRICOS Y QUEMACOCO EL PRECIO ES YA CON EL TRASPASO"
+        ]
+    }
+]
